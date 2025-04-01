@@ -7,3 +7,9 @@
 .table{
     overflow-y: scroll;
 }
+
+.card-img-top{
+    max-width: 140px;
+    height: auto;
+    object-fit: cover;
+}
