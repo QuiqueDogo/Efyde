@@ -1,4 +1,4 @@
-Esto es una prueba para Edyfe usando Next como base y ant desing como UI
+Esto es una prueba para Edyfe usando Angular y bootstrap
 
 ## Como empezar
 
@@ -9,22 +9,14 @@ npm i
 despues corremos el proyecto:
 
 ```bash
-npm run dev
+ng serve
 ```
 
 Abrimos en [http://localhost:3000](http://localhost:3000) para ver la prueba.
 
 
-## Descripcion de Tecnologias Usadas
+## Descripcion de la prueba
 
-Para esta prueba quise optar por:
+Para esta prueba la verdad angular no es mi fuerte pero nada que documentacion, cafe y stackoverflow no ayuden. 
+Se que no termine todas las funciones pero es lo que pude hacer en el tiempo que me sobro y la curva que me tomo aprender.
 
-- NextJs - por que se me hizo mas comodo para trabajar 
-- Ant Desing - Es un UI bastante bonito y veo que no esta muy usado aun y tambien esta muy completa su libreria para todo lo que se ocupaba, ademas de que queria salir de la zona de comfort de Material UI
-- Redux -  para el uso de estados globales.
-
-Y eso fue todo.
-
-## Deploy en Netlify
-
-Si no quieres instalar nada, [aqui](https://pruebaedyfe.netlify.app/) es el enlace para la prueba con deply en netlify.
